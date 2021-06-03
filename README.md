@@ -1,2 +1,0 @@
-# dogukaaanturkmen
-mobil uygulamalar ödev
